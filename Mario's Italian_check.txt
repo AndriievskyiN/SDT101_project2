@@ -1,0 +1,8 @@
+Restaurant: Mario's Italian
+
+Items:
+- Spaghetti Carbonara ($12.99)
+- Cola ($1.99)
+- Lasagna Bolognese ($14.99)
+
+Total: $29.97

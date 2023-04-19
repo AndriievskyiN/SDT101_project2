@@ -1,0 +1,6 @@
+Restaurant: Juan's Mexican
+
+Items:
+- Beer ($3.99)
+
+Total: $3.99
